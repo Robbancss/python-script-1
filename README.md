@@ -1,7 +1,7 @@
 # python-script-1
 Script languages 1. assignment
 
-Adott egy "data.txt" nevű fájl, ami egyszerű számla adatokat tartalmaz. Egy sor a számlaszámot, a számlatulajdonos nevét, az utolsó módosítás idejét és az aktuális egyenleget tartalmazza. (Az egyes elemek szóközzel vannak elválasztva.) A sorok a számlaszámok alapján rendezettek. 
+Adott egy "data.txt" nevű fájl, ami egyszerű számla adatokat tartalmaz. Egy sor a számlaszámot, a számlatulajdonos nevét, az utolsó módosítás idejét és az aktuális egyenleget tartalmazza. (Az egyes elemek szóközzel vannak elválasztva.) A sorok a számlaszámok alapján rendezettek.
 
 Minta data.txt fájl:
 
